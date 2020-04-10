@@ -26,5 +26,26 @@ Course materials for the Data Science online class in SS20.
 
 ### Exercises
 Please upload your solutions via Moodle!
+<<<<<<< HEAD
 * [Exercise 1](https://colab.research.google.com/github/PPross/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
 * [Exercise 2](https://colab.research.google.com/github/PPross/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+=======
+* [Exercise 1](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
+* [Exercise 2](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+
+## Block 2 - Recommender Systems
+
+### Static Slides
+* [Recommender Systems I](Slides/02_a_Recommender_Systems_I.pdf)
+* [Tensor Algebra](Slides/02_b_Tensor_Algebra.pdf )
+* [Recommender Systems II](Slides/02_c_Recommender_Systems_II.pdf)
+* [Use Case](Slides/02_d_Use_Case_Recommender_System.pdf)
+
+### Notebooks
+* [Tensor Algebra](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/02_b_Tensor_Algebra.ipynb)
+* [Use Case](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/02_c_UseCase_RecommendationSystems.ipynb)
+
+
+### Lab
+
+>>>>>>> a7291bc350c1b633098f33abbe1105fc655cdeb0
