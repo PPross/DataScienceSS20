@@ -26,7 +26,6 @@ Course materials for the Data Science online class in SS20.
 
 ### Exercises
 Please upload your solutions via Moodle!
-<<<<<<< HEAD
 * [Exercise 1](https://colab.research.google.com/github/PPross/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
 * [Exercise 2](https://colab.research.google.com/github/PPross/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
 =======
