@@ -50,8 +50,10 @@ Please upload your solutions via Moodle!
 ### Exercises
 Please upload your solutions via Moodle!
 
+
 * [Exercise 2_a](https://colab.research.google.com/github/PPross/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
 * [Exercise 2_b](https://colab.research.google.com/github/PPross/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
+
 
 ## Block 3 - Data Wrangling
 
