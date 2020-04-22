@@ -49,6 +49,9 @@
   },
   {
    "cell_type": "code",
+<<<<<<< Updated upstream
+   "execution_count": null,
+=======
    "execution_count": 43,
    "metadata": {},
    "outputs": [
@@ -86,9 +89,9 @@
    ],
    "source": [
     "#Test um nur bestimmte Artikel zu bekommen, Daten liegen als dictionaries vor\n",
-    "keyes=(data.keys())                  #die Keyes aus der Excel übergeben\n",
+    "keyes=(data.keys())                  #die Keyes aus der Excel Ã¼bergeben\n",
     "print(keyes)\n",
-    "nur_bestimmte_keyes=(keyes[1:7])     #die gewünschten Keyes übergeben\n",
+    "nur_bestimmte_keyes=(keyes[1:7])     #die gewÃ¼nschten Keyes Ã¼bergeben\n",
     "print(nur_bestimmte_keyes)\n",
     "for i in nur_bestimmte_keyes:        #Ausgabe der Objekte\n",
     "    print(i)\n",
@@ -101,6 +104,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
+>>>>>>> Stashed changes
    "metadata": {},
    "outputs": [],
    "source": [
